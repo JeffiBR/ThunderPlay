@@ -268,5 +268,20 @@
     "id": 18,
     "created_at": "2026-02-19T03:33:44.707Z",
     "updated_at": "2026-02-19T03:33:44.707Z"
+  },
+  {
+    "nome": "Lorraynne",
+    "telefone": "(82) 9919-6009",
+    "id_servidor": "488892748",
+    "tipo": "direto",
+    "revendedor": null,
+    "servidor": "UltraPlay",
+    "data_vencimento": "2026-03-28",
+    "tipo_plano": "2_mes_sem_adultos",
+    "valor_plano": 35,
+    "observacoes": null,
+    "id": 19,
+    "created_at": "2026-02-19T03:34:46.920Z",
+    "updated_at": "2026-02-19T03:34:46.920Z"
   }
 ]
