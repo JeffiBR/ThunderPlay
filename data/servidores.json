@@ -16,5 +16,14 @@
     "id": 2,
     "created_at": "2026-02-19T03:06:08.097Z",
     "updated_at": "2026-02-19T03:06:08.097Z"
+  },
+  {
+    "nome": "Blaze",
+    "url": "",
+    "descricao": "",
+    "status": "ativo",
+    "id": 3,
+    "created_at": "2026-02-19T03:06:18.829Z",
+    "updated_at": "2026-02-19T03:06:18.829Z"
   }
 ]
