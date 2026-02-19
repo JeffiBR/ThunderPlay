@@ -118,5 +118,20 @@
     "id": 8,
     "created_at": "2026-02-19T03:16:57.088Z",
     "updated_at": "2026-02-19T03:16:57.088Z"
+  },
+  {
+    "nome": "Debora",
+    "telefone": "(82) 99668-2950",
+    "id_servidor": "828521588",
+    "tipo": "direto",
+    "revendedor": null,
+    "servidor": "4K Play Pro",
+    "data_vencimento": "2026-02-20",
+    "tipo_plano": "1_mes_sem_adultos",
+    "valor_plano": 20,
+    "observacoes": null,
+    "id": 9,
+    "created_at": "2026-02-19T03:19:07.127Z",
+    "updated_at": "2026-02-19T03:19:07.127Z"
   }
 ]
