@@ -148,5 +148,20 @@
     "id": 10,
     "created_at": "2026-02-19T03:20:56.763Z",
     "updated_at": "2026-02-19T03:20:56.763Z"
+  },
+  {
+    "nome": "Dewison",
+    "telefone": "(82) 99960-6185",
+    "id_servidor": "888059546",
+    "tipo": "direto",
+    "revendedor": null,
+    "servidor": "4K Play Pro",
+    "data_vencimento": "2026-03-19",
+    "tipo_plano": "1_ano_com_adultos",
+    "valor_plano": 200,
+    "observacoes": null,
+    "id": 11,
+    "created_at": "2026-02-19T03:22:41.934Z",
+    "updated_at": "2026-02-19T03:22:41.934Z"
   }
 ]
