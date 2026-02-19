@@ -100,5 +100,118 @@
     "foto_base64": null,
     "foto_nome": null,
     "foto_tipo": null
+  },
+  {
+    "id": 2,
+    "created_at": "2026-02-19T04:19:21.146Z",
+    "updated_at": "2026-02-19T04:19:21.146Z",
+    "nome_produto": "Frasqueira",
+    "quantidade_produtos": 1,
+    "tecido_tipo": "Tactel",
+    "custo_unitario_tecido": 6.3,
+    "custo_unitario_aviamentos": 18.79,
+    "custo_unitario_mo": 27,
+    "custo_unitario_embalagem": 2.5,
+    "custo_unitario_transporte": 0.5,
+    "porcentagem_lucro": 100,
+    "lucro_unitario": 25.09,
+    "preco_venda_unitario": 80.18,
+    "aviamentos_data": [
+      {
+        "nome": "Linha",
+        "tipo": "metro",
+        "custo_unitario": 0.06,
+        "detalhes": {
+          "valor_total": 18,
+          "metros_total": 1500,
+          "metros_utilizados": 5
+        }
+      },
+      {
+        "nome": "Linha",
+        "tipo": "metro",
+        "custo_unitario": 0.03,
+        "detalhes": {
+          "valor_total": 4.5,
+          "metros_total": 1500,
+          "metros_utilizados": 10
+        }
+      },
+      {
+        "nome": "Zíper",
+        "tipo": "metro",
+        "custo_unitario": 0.5,
+        "detalhes": {
+          "valor_total": 1,
+          "metros_total": 1,
+          "metros_utilizados": 0.5
+        }
+      },
+      {
+        "nome": "Cursor",
+        "tipo": "unidade",
+        "custo_unitario": 1,
+        "detalhes": {
+          "valor_unitario": 1,
+          "unidades_utilizadas": 1
+        }
+      },
+      {
+        "nome": "Alça",
+        "tipo": "metro",
+        "custo_unitario": 5.208,
+        "detalhes": {
+          "valor_total": 5.6,
+          "metros_total": 1,
+          "metros_utilizados": 0.93
+        }
+      },
+      {
+        "nome": "Viés",
+        "tipo": "metro",
+        "custo_unitario": 0.27125,
+        "detalhes": {
+          "valor_total": 10.85,
+          "metros_total": 20,
+          "metros_utilizados": 0.5
+        }
+      },
+      {
+        "nome": "Tecido 1",
+        "tipo": "metro",
+        "custo_unitario": 4.62,
+        "detalhes": {
+          "valor_total": 11,
+          "metros_total": 1,
+          "metros_utilizados": 0.42
+        }
+      },
+      {
+        "nome": "Tecido 2 Forro",
+        "tipo": "metro",
+        "custo_unitario": 5.6000000000000005,
+        "detalhes": {
+          "valor_total": 28,
+          "metros_total": 1,
+          "metros_utilizados": 0.2
+        }
+      },
+      {
+        "nome": "Etiqueta",
+        "tipo": "unidade",
+        "custo_unitario": 1.5,
+        "detalhes": {
+          "valor_unitario": 1.5,
+          "unidades_utilizadas": 1
+        }
+      }
+    ],
+    "valor_total_tecido": 15,
+    "comprimento_total_tecido": 100,
+    "largura_tecido": 140,
+    "metragem_utilizada": 42,
+    "foto_base64": null,
+    "foto_nome": null,
+    "foto_tipo": null
   }
 ]
