@@ -283,5 +283,20 @@
     "id": 19,
     "created_at": "2026-02-19T03:34:46.920Z",
     "updated_at": "2026-02-19T03:34:46.920Z"
+  },
+  {
+    "nome": "Leonardo",
+    "telefone": "(82) 99906-9153",
+    "id_servidor": "945780481",
+    "tipo": "direto",
+    "revendedor": null,
+    "servidor": "UltraPlay",
+    "data_vencimento": "2026-03-02",
+    "tipo_plano": "1_mes_com_adultos",
+    "valor_plano": 20,
+    "observacoes": null,
+    "id": 20,
+    "created_at": "2026-02-19T03:35:36.214Z",
+    "updated_at": "2026-02-19T03:35:36.214Z"
   }
 ]
