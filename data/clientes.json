@@ -223,5 +223,20 @@
     "id": 15,
     "created_at": "2026-02-19T03:29:52.339Z",
     "updated_at": "2026-02-19T03:29:52.339Z"
+  },
+  {
+    "nome": "Evellyn",
+    "telefone": "(82) 99948-2657",
+    "id_servidor": "350053265",
+    "tipo": "direto",
+    "revendedor": null,
+    "servidor": "UltraPlay",
+    "data_vencimento": "2026-03-08",
+    "tipo_plano": "1_mes_sem_adultos",
+    "valor_plano": 20,
+    "observacoes": null,
+    "id": 16,
+    "created_at": "2026-02-19T03:30:44.564Z",
+    "updated_at": "2026-02-19T03:30:44.564Z"
   }
 ]
