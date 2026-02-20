@@ -403,5 +403,20 @@
     "id": 27,
     "created_at": "2026-02-20T01:10:31.026Z",
     "updated_at": "2026-02-20T01:10:31.026Z"
+  },
+  {
+    "nome": "Wagner",
+    "telefone": "(82) 99131-8244",
+    "id_servidor": "178659945",
+    "tipo": "direto",
+    "revendedor": null,
+    "servidor": "UltraPlay",
+    "data_vencimento": "2026-03-01",
+    "tipo_plano": "1_mes_sem_adultos",
+    "valor_plano": 20,
+    "observacoes": null,
+    "id": 28,
+    "created_at": "2026-02-20T01:11:38.033Z",
+    "updated_at": "2026-02-20T01:11:38.033Z"
   }
 ]
