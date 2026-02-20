@@ -388,5 +388,20 @@
     "id": 26,
     "created_at": "2026-02-20T01:09:38.024Z",
     "updated_at": "2026-02-20T01:09:38.024Z"
+  },
+  {
+    "nome": "Neguinho da Van",
+    "telefone": "(82) 99915-8412",
+    "id_servidor": "609810862",
+    "tipo": "revenda",
+    "revendedor": "Leandro",
+    "servidor": "UltraPlay",
+    "data_vencimento": "2026-03-02",
+    "tipo_plano": "1_mes_com_adultos",
+    "valor_plano": 20,
+    "observacoes": null,
+    "id": 27,
+    "created_at": "2026-02-20T01:10:31.026Z",
+    "updated_at": "2026-02-20T01:10:31.026Z"
   }
 ]
