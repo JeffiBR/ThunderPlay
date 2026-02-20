@@ -448,5 +448,20 @@
     "id": 30,
     "created_at": "2026-02-20T01:14:59.167Z",
     "updated_at": "2026-02-20T01:14:59.167Z"
+  },
+  {
+    "nome": "Erisvaldo",
+    "telefone": "(82) 99673-9110",
+    "id_servidor": "021232001",
+    "tipo": "direto",
+    "revendedor": null,
+    "servidor": "UltraPlay",
+    "data_vencimento": "2026-03-15",
+    "tipo_plano": "1_mes_com_adultos",
+    "valor_plano": 20,
+    "observacoes": null,
+    "id": 31,
+    "created_at": "2026-02-20T01:16:01.181Z",
+    "updated_at": "2026-02-20T01:16:01.181Z"
   }
 ]
