@@ -313,5 +313,20 @@
     "id": 21,
     "created_at": "2026-02-20T00:57:25.067Z",
     "updated_at": "2026-02-20T00:57:25.067Z"
+  },
+  {
+    "nome": "Rayane",
+    "telefone": "(82) 99683-2719",
+    "id_servidor": "198008438",
+    "tipo": "direto",
+    "revendedor": null,
+    "servidor": "UltraPlay",
+    "data_vencimento": "2026-02-27",
+    "tipo_plano": "1_mes_sem_adultos",
+    "valor_plano": 20,
+    "observacoes": null,
+    "id": 22,
+    "created_at": "2026-02-20T01:04:45.453Z",
+    "updated_at": "2026-02-20T01:04:45.453Z"
   }
 ]
