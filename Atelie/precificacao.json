@@ -213,5 +213,87 @@
     "foto_base64": null,
     "foto_nome": null,
     "foto_tipo": null
+  },
+  {
+    "id": 3,
+    "created_at": "2026-02-21T02:21:19.115Z",
+    "updated_at": "2026-02-21T02:21:19.115Z",
+    "nome_produto": "Necessaire Pequena Dia da Mulher",
+    "quantidade_produtos": 1,
+    "tecido_tipo": "Couro Sint?tico",
+    "custo_unitario_tecido": 2.77,
+    "custo_unitario_aviamentos": 4.83,
+    "custo_unitario_mo": 6,
+    "custo_unitario_embalagem": 2.5,
+    "custo_unitario_transporte": 0.5,
+    "porcentagem_lucro": 100,
+    "lucro_unitario": 7.61,
+    "preco_venda_unitario": 24.21,
+    "aviamentos_data": [
+      {
+        "nome": "Linha",
+        "tipo": "metro",
+        "custo_unitario": 0.036000000000000004,
+        "detalhes": {
+          "valor_total": 18,
+          "metros_total": 1500,
+          "metros_utilizados": 3
+        }
+      },
+      {
+        "nome": "Zíper",
+        "tipo": "metro",
+        "custo_unitario": 0.25,
+        "detalhes": {
+          "valor_total": 1,
+          "metros_total": 1,
+          "metros_utilizados": 0.25
+        }
+      },
+      {
+        "nome": "Cursor",
+        "tipo": "unidade",
+        "custo_unitario": 1,
+        "detalhes": {
+          "valor_unitario": 1,
+          "unidades_utilizadas": 1
+        }
+      },
+      {
+        "nome": "Forro",
+        "tipo": "unidade",
+        "custo_unitario": 1.86,
+        "detalhes": {
+          "valor_unitario": 1.86,
+          "unidades_utilizadas": 1
+        }
+      },
+      {
+        "nome": "Etiqueta",
+        "tipo": "unidade",
+        "custo_unitario": 1.5,
+        "detalhes": {
+          "valor_unitario": 1.5,
+          "unidades_utilizadas": 1
+        }
+      },
+      {
+        "nome": "Viés",
+        "tipo": "metro",
+        "custo_unitario": 0.188125,
+        "detalhes": {
+          "valor_total": 10.75,
+          "metros_total": 20,
+          "metros_utilizados": 0.35
+        }
+      }
+    ],
+    "valor_total_tecido": 35,
+    "comprimento_total_tecido": 100,
+    "largura_tecido": 140,
+    "metragem_utilizada": 7.92,
+    "foto_base64": null,
+    "foto_nome": null,
+    "foto_tipo": null
   }
 ]
