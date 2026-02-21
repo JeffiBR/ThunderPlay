@@ -295,5 +295,87 @@
     "foto_base64": null,
     "foto_nome": null,
     "foto_tipo": null
+  },
+  {
+    "id": 4,
+    "created_at": "2026-02-21T02:24:58.868Z",
+    "updated_at": "2026-02-21T02:24:58.868Z",
+    "nome_produto": "Necessaire Dia Da Mulher M",
+    "quantidade_produtos": 1,
+    "tecido_tipo": "Couro Sint?tico",
+    "custo_unitario_tecido": 5,
+    "custo_unitario_aviamentos": 6.72,
+    "custo_unitario_mo": 6,
+    "custo_unitario_embalagem": 2.5,
+    "custo_unitario_transporte": 0.5,
+    "porcentagem_lucro": 100,
+    "lucro_unitario": 11.72,
+    "preco_venda_unitario": 32.45,
+    "aviamentos_data": [
+      {
+        "nome": "Forro",
+        "tipo": "unidade",
+        "custo_unitario": 3.5,
+        "detalhes": {
+          "valor_unitario": 3.5,
+          "unidades_utilizadas": 1
+        }
+      },
+      {
+        "nome": "Linha",
+        "tipo": "metro",
+        "custo_unitario": 0.06,
+        "detalhes": {
+          "valor_total": 18,
+          "metros_total": 1500,
+          "metros_utilizados": 5
+        }
+      },
+      {
+        "nome": "Zíper",
+        "tipo": "metro",
+        "custo_unitario": 0.45,
+        "detalhes": {
+          "valor_total": 1,
+          "metros_total": 1,
+          "metros_utilizados": 0.45
+        }
+      },
+      {
+        "nome": "Cursor",
+        "tipo": "unidade",
+        "custo_unitario": 1,
+        "detalhes": {
+          "valor_unitario": 1,
+          "unidades_utilizadas": 1
+        }
+      },
+      {
+        "nome": "Etiqueta",
+        "tipo": "unidade",
+        "custo_unitario": 1.5,
+        "detalhes": {
+          "valor_unitario": 1.5,
+          "unidades_utilizadas": 1
+        }
+      },
+      {
+        "nome": "Viés",
+        "tipo": "metro",
+        "custo_unitario": 0.215,
+        "detalhes": {
+          "valor_total": 10.75,
+          "metros_total": 20,
+          "metros_utilizados": 0.4
+        }
+      }
+    ],
+    "valor_total_tecido": 35,
+    "comprimento_total_tecido": 100,
+    "largura_tecido": 140,
+    "metragem_utilizada": 14.28,
+    "foto_base64": null,
+    "foto_nome": null,
+    "foto_tipo": null
   }
 ]
