@@ -28,5 +28,20 @@
     "servidor": "4K Play Pro",
     "id": 2,
     "data_renovacao": "2026-02-22T02:20:02.894Z"
+  },
+  {
+    "cliente_id": 9,
+    "cliente_nome": "Debora",
+    "cliente_telefone": "(82) 99668-2950",
+    "tipo_cliente": "direto",
+    "plano_anterior": "1_mes_sem_adultos",
+    "plano_novo": "1_mes_sem_adultos",
+    "valor_renovacao": 20,
+    "data_vencimento_anterior": "2026-02-20",
+    "data_vencimento_novo": "2026-03-22",
+    "revendedor": null,
+    "servidor": "4K Play Pro",
+    "id": 3,
+    "data_renovacao": "2026-02-22T02:20:10.877Z"
   }
 ]
