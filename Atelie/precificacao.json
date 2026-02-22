@@ -377,5 +377,69 @@
     "foto_base64": null,
     "foto_nome": null,
     "foto_tipo": null
+  },
+  {
+    "id": 5,
+    "created_at": "2026-02-22T02:18:20.986Z",
+    "updated_at": "2026-02-22T02:18:20.986Z",
+    "nome_produto": "Porta Moeda",
+    "quantidade_produtos": 1,
+    "tecido_tipo": "Camurça Sintética",
+    "custo_unitario_tecido": 0.4,
+    "custo_unitario_aviamentos": 0.62,
+    "custo_unitario_mo": 1.5,
+    "custo_unitario_embalagem": 2.5,
+    "custo_unitario_transporte": 0.5,
+    "porcentagem_lucro": 100,
+    "lucro_unitario": 1.02,
+    "preco_venda_unitario": 6.54,
+    "aviamentos_data": [
+      {
+        "nome": "Linha",
+        "tipo": "metro",
+        "custo_unitario": 0.003,
+        "detalhes": {
+          "valor_total": 4.5,
+          "metros_total": 1500,
+          "metros_utilizados": 1
+        }
+      },
+      {
+        "nome": "Zíper",
+        "tipo": "metro",
+        "custo_unitario": 0.15,
+        "detalhes": {
+          "valor_total": 1,
+          "metros_total": 1,
+          "metros_utilizados": 0.15
+        }
+      },
+      {
+        "nome": "Cursor",
+        "tipo": "unidade",
+        "custo_unitario": 0.2,
+        "detalhes": {
+          "valor_unitario": 0.2,
+          "unidades_utilizadas": 1
+        }
+      },
+      {
+        "nome": "vies",
+        "tipo": "metro",
+        "custo_unitario": 0.26875,
+        "detalhes": {
+          "valor_total": 10.75,
+          "metros_total": 20,
+          "metros_utilizados": 0.5
+        }
+      }
+    ],
+    "valor_total_tecido": 11,
+    "comprimento_total_tecido": 100,
+    "largura_tecido": 140,
+    "metragem_utilizada": 3.6,
+    "foto_base64": null,
+    "foto_nome": null,
+    "foto_tipo": null
   }
 ]
