@@ -441,5 +441,99 @@
     "foto_base64": null,
     "foto_nome": null,
     "foto_tipo": null
+  },
+  {
+    "id": 6,
+    "created_at": "2026-02-22T16:27:34.432Z",
+    "updated_at": "2026-02-22T16:27:34.432Z",
+    "nome_produto": "Box GG Rosa",
+    "quantidade_produtos": 1,
+    "tecido_tipo": "Napa Sintética",
+    "custo_unitario_tecido": 4.5,
+    "largura_utilizada": 50,
+    "comprimento_utilizado": 36,
+    "area_utilizada": 1800,
+    "custo_unitario_aviamentos": 10.31,
+    "custo_unitario_mo": 18,
+    "custo_unitario_embalagem": 2.5,
+    "custo_unitario_transporte": 0.5,
+    "porcentagem_lucro": 100,
+    "lucro_unitario": 14.81,
+    "preco_venda_unitario": 50.63,
+    "aviamentos_data": [
+      {
+        "nome": "Linha",
+        "tipo": "metro",
+        "custo_unitario": 0.06,
+        "detalhes": {
+          "valor_total": 18,
+          "metros_total": 1500,
+          "metros_utilizados": 5
+        }
+      },
+      {
+        "nome": "Zíper",
+        "tipo": "metro",
+        "custo_unitario": 0.55,
+        "detalhes": {
+          "valor_total": 1,
+          "metros_total": 1,
+          "metros_utilizados": 0.55
+        }
+      },
+      {
+        "nome": "Cursor",
+        "tipo": "unidade",
+        "custo_unitario": 1,
+        "detalhes": {
+          "valor_unitario": 1,
+          "unidades_utilizadas": 1
+        }
+      },
+      {
+        "nome": "Forro ",
+        "tipo": "unidade",
+        "custo_unitario": 5.04,
+        "detalhes": {
+          "valor_unitario": 5.04,
+          "unidades_utilizadas": 1
+        }
+      },
+      {
+        "nome": "Viés",
+        "tipo": "metro",
+        "custo_unitario": 0.16274999999999998,
+        "detalhes": {
+          "valor_total": 10.85,
+          "metros_total": 20,
+          "metros_utilizados": 0.3
+        }
+      },
+      {
+        "nome": "Chaveiro",
+        "tipo": "unidade",
+        "custo_unitario": 2,
+        "detalhes": {
+          "valor_unitario": 2,
+          "unidades_utilizadas": 1
+        }
+      },
+      {
+        "nome": "Etiqueta",
+        "tipo": "unidade",
+        "custo_unitario": 1.5,
+        "detalhes": {
+          "valor_unitario": 1.5,
+          "unidades_utilizadas": 1
+        }
+      }
+    ],
+    "valor_total_tecido": 35,
+    "comprimento_total_tecido": 100,
+    "largura_tecido": 140,
+    "metragem_utilizada": 1800,
+    "foto_base64": null,
+    "foto_nome": null,
+    "foto_tipo": null
   }
 ]
