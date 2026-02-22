@@ -6,7 +6,7 @@
     "tipo_cliente": "direto",
     "plano_anterior": "1_mes_sem_adultos",
     "plano_novo": "1_mes_sem_adultos",
-    "valor_renovacao": 0,
+    "valor_renovacao": 20,
     "data_vencimento_anterior": "2026-02-19",
     "data_vencimento_novo": "2026-03-20",
     "revendedor": null,
