@@ -13,5 +13,20 @@
     "servidor": "4K Play Pro",
     "id": 1,
     "data_renovacao": "2026-02-20T01:02:28.538Z"
+  },
+  {
+    "cliente_id": 4,
+    "cliente_nome": "Steffanny",
+    "cliente_telefone": "(82) 99671-6464",
+    "tipo_cliente": "direto",
+    "plano_anterior": "1_mes_sem_adultos",
+    "plano_novo": "1_mes_sem_adultos",
+    "valor_renovacao": 20,
+    "data_vencimento_anterior": "2026-02-20",
+    "data_vencimento_novo": "2026-03-22",
+    "revendedor": null,
+    "servidor": "4K Play Pro",
+    "id": 2,
+    "data_renovacao": "2026-02-22T02:20:02.894Z"
   }
 ]
