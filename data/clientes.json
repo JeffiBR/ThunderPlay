@@ -170,14 +170,14 @@
     "id_servidor": "060484653",
     "tipo": "direto",
     "revendedor": null,
-    "servidor": "4K Play Pro",
+    "servidor": "Wave",
     "data_vencimento": "2026-03-22",
     "tipo_plano": "1_mes_sem_adultos",
     "valor_plano": 20,
-    "observacoes": null,
+    "observacoes": "[2026-02-22T16:31:59.351Z] Migracao de servidor: 4K Play Pro -> Wave (ID 060484653)",
     "id": 12,
     "created_at": "2026-02-19T03:23:27.811Z",
-    "updated_at": "2026-02-22T16:30:44.908Z"
+    "updated_at": "2026-02-22T16:31:59.351Z"
   },
   {
     "nome": "IPTV Willian",
