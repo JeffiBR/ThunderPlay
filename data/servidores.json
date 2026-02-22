@@ -25,5 +25,14 @@
     "id": 3,
     "created_at": "2026-02-19T03:06:18.829Z",
     "updated_at": "2026-02-19T03:06:18.829Z"
+  },
+  {
+    "nome": "Wave",
+    "url": "",
+    "descricao": "",
+    "status": "ativo",
+    "id": 4,
+    "created_at": "2026-02-22T16:31:28.208Z",
+    "updated_at": "2026-02-22T16:31:28.208Z"
   }
 ]
