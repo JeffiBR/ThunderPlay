@@ -336,13 +336,13 @@
     "tipo": "revenda",
     "revendedor": "Rhuann",
     "servidor": "UltraPlay",
-    "data_vencimento": "2026-02-26",
+    "data_vencimento": "2026-03-28",
     "tipo_plano": "1_mes_sem_adultos",
-    "valor_plano": 20,
+    "valor_plano": 13,
     "observacoes": null,
     "id": 23,
     "created_at": "2026-02-20T01:05:35.179Z",
-    "updated_at": "2026-02-20T01:05:35.179Z"
+    "updated_at": "2026-02-28T21:09:15.245Z"
   },
   {
     "nome": "Juliana",
