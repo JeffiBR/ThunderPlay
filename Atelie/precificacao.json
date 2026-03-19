@@ -616,5 +616,86 @@
     "foto_base64": null,
     "foto_nome": null,
     "foto_tipo": null
+  },
+  {
+    "id": 8,
+    "created_at": "2026-03-19T02:19:47.827Z",
+    "updated_at": "2026-03-19T02:19:47.827Z",
+    "nome_produto": "Nécessaire Box P",
+    "quantidade_produtos": 150,
+    "tecido_tipo": "Naylon 600",
+    "tecido_tipo2": "Cetim",
+    "tecido_tipo3": null,
+    "tecido_tipo_forro": null,
+    "custo_unitario_tecido": 2.01,
+    "custo_unitario_tecido2": 0.67,
+    "custo_unitario_tecido3": 0,
+    "custo_unitario_forro": 0,
+    "largura_utilizada": 42,
+    "comprimento_utilizado": 28,
+    "area_utilizada": 1176,
+    "custo_unitario_aviamentos": 0.43,
+    "custo_unitario_mo": 1.5,
+    "custo_unitario_embalagem": 0.01,
+    "custo_unitario_transporte": 0.5,
+    "porcentagem_lucro": 100,
+    "lucro_unitario": 2.44,
+    "preco_venda_unitario": 7.38,
+    "aviamentos_data": [
+      {
+        "nome": "Linha",
+        "tipo": "metro",
+        "custo_unitario": 0.009000000000000001,
+        "detalhes": {
+          "valor_total": 4.5,
+          "metros_total": 1500,
+          "metros_utilizados": 3
+        }
+      },
+      {
+        "nome": "Cursor",
+        "tipo": "unidade",
+        "custo_unitario": 0.2,
+        "detalhes": {
+          "valor_unitario": 0.2,
+          "unidades_utilizadas": 1
+        }
+      },
+      {
+        "nome": "Zíper",
+        "tipo": "metro",
+        "custo_unitario": 0.22,
+        "detalhes": {
+          "valor_total": 1,
+          "metros_total": 1,
+          "metros_utilizados": 0.22
+        }
+      }
+    ],
+    "valor_total_tecido": 15.9,
+    "comprimento_total_tecido": 100,
+    "largura_tecido": 140,
+    "metragem_utilizada": 1176,
+    "valor_total_tecido2": 8,
+    "comprimento_total_tecido2": 100,
+    "largura_tecido2": 140,
+    "largura_utilizada2": 42,
+    "comprimento_utilizado2": 28,
+    "metragem_utilizada2": 1176,
+    "valor_total_tecido3": 0,
+    "comprimento_total_tecido3": 0,
+    "largura_tecido3": 0,
+    "largura_utilizada3": 0,
+    "comprimento_utilizado3": 0,
+    "metragem_utilizada3": 0,
+    "valor_total_forro": 0,
+    "comprimento_total_forro": 0,
+    "largura_forro": 0,
+    "largura_utilizada_forro": 0,
+    "comprimento_utilizado_forro": 0,
+    "metragem_utilizada_forro": 0,
+    "foto_base64": null,
+    "foto_nome": null,
+    "foto_tipo": null
   }
 ]
