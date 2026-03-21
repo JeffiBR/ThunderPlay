@@ -130,5 +130,137 @@
     "foto_base64": null,
     "foto_nome": null,
     "foto_tipo": null
+  },
+  {
+    "id": 2,
+    "created_at": "2026-03-21T02:44:08.996Z",
+    "updated_at": "2026-03-21T02:44:08.996Z",
+    "nome_produto": "malinha de mão Rubi",
+    "quantidade_produtos": 1,
+    "tecido_tipo": "Tecidos Impermeáveis (bagun, tactel grosso)",
+    "tecido_tipo2": "Veludo (molhado, alemão, cotelê)",
+    "tecido_tipo3": null,
+    "tecido_tipo_forro": null,
+    "custo_unitario_tecido": 6.63,
+    "custo_unitario_tecido2": 1.73,
+    "custo_unitario_tecido3": 0,
+    "custo_unitario_forro": 2.2,
+    "largura_utilizada": 42,
+    "comprimento_utilizado": 36,
+    "area_utilizada": 1512,
+    "custo_unitario_aviamentos": 30.13,
+    "custo_unitario_mo": 36,
+    "custo_unitario_embalagem": 2,
+    "custo_unitario_transporte": 0.5,
+    "custo_total_unitario": 75.26,
+    "custo_total_lote": 75.26,
+    "porcentagem_lucro": 100,
+    "lucro_unitario": 36.76,
+    "lucro_total": 36.76,
+    "preco_venda_unitario": 112.02,
+    "valor_total_venda": 112.02,
+    "aviamentos_data": [
+      {
+        "nome": "Linha",
+        "tipo": "metro",
+        "custo_unitario": 0.03,
+        "detalhes": {
+          "valor_total": 4.5,
+          "metros_total": 1500,
+          "metros_utilizados": 10
+        }
+      },
+      {
+        "nome": "Zíper",
+        "tipo": "metro",
+        "custo_unitario": 0.55,
+        "detalhes": {
+          "valor_total": 1,
+          "metros_total": 1,
+          "metros_utilizados": 0.55
+        }
+      },
+      {
+        "nome": "Cursor",
+        "tipo": "unidade",
+        "custo_unitario": 0.8,
+        "detalhes": {
+          "valor_unitario": 0.4,
+          "unidades_utilizadas": 2
+        }
+      },
+      {
+        "nome": "mosquestão",
+        "tipo": "unidade",
+        "custo_unitario": 5.6,
+        "detalhes": {
+          "valor_unitario": 2.8,
+          "unidades_utilizadas": 2
+        }
+      },
+      {
+        "nome": "Regulador",
+        "tipo": "unidade",
+        "custo_unitario": 3.7,
+        "detalhes": {
+          "valor_unitario": 3.7,
+          "unidades_utilizadas": 1
+        }
+      },
+      {
+        "nome": "Alça",
+        "tipo": "metro",
+        "custo_unitario": 10.75,
+        "detalhes": {
+          "valor_total": 4.3,
+          "metros_total": 1,
+          "metros_utilizados": 2.5
+        }
+      },
+      {
+        "nome": "Etiqueta",
+        "tipo": "unidade",
+        "custo_unitario": 1.5,
+        "detalhes": {
+          "valor_unitario": 1.5,
+          "unidades_utilizadas": 1
+        }
+      },
+      {
+        "nome": "Estruturador",
+        "tipo": "metro",
+        "custo_unitario": 7.2,
+        "detalhes": {
+          "valor_total": 9,
+          "metros_total": 1,
+          "metros_utilizados": 0.8
+        }
+      }
+    ],
+    "valor_total_tecido": 25,
+    "comprimento_total_tecido": 100,
+    "largura_tecido": 140,
+    "metragem_utilizada": 1512,
+    "valor_total_tecido2": 16,
+    "comprimento_total_tecido2": 100,
+    "largura_tecido2": 140,
+    "largura_utilizada2": 42,
+    "comprimento_utilizado2": 36,
+    "metragem_utilizada2": 1512,
+    "valor_total_tecido3": 0,
+    "comprimento_total_tecido3": 0,
+    "largura_tecido3": 0,
+    "largura_utilizada3": 0,
+    "comprimento_utilizado3": 0,
+    "metragem_utilizada3": 0,
+    "valor_total_forro": 11,
+    "comprimento_total_forro": 100,
+    "largura_forro": 140,
+    "largura_utilizada_forro": 40,
+    "comprimento_utilizado_forro": 70,
+    "metragem_utilizada_forro": 2800,
+    "foto_base64": null,
+    "foto_nome": null,
+    "foto_tipo": null
   }
 ]
