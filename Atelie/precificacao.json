@@ -262,5 +262,100 @@
     "foto_base64": null,
     "foto_nome": null,
     "foto_tipo": null
+  },
+  {
+    "id": 3,
+    "created_at": "2026-03-26T01:11:53.898Z",
+    "updated_at": "2026-03-26T01:11:53.898Z",
+    "nome_produto": "Maletinha Dia das Mães.",
+    "quantidade_produtos": 1,
+    "tecido_tipo": "Oxford",
+    "tecido_tipo2": "Naylon 600",
+    "tecido_tipo3": null,
+    "tecido_tipo_forro": null,
+    "custo_unitario_tecido": 2.26,
+    "custo_unitario_tecido2": 0.66,
+    "custo_unitario_tecido3": 1.26,
+    "custo_unitario_forro": 0,
+    "largura_utilizada": 21,
+    "comprimento_utilizado": 28,
+    "area_utilizada": 588,
+    "custo_unitario_aviamentos": 2.18,
+    "custo_unitario_mo": 10.5,
+    "custo_unitario_embalagem": 2,
+    "custo_unitario_transporte": 0.5,
+    "custo_total_unitario": 17.93,
+    "custo_total_lote": 17.93,
+    "porcentagem_lucro": 100,
+    "lucro_unitario": 4.44,
+    "lucro_total": 4.44,
+    "preco_venda_unitario": 22.37,
+    "valor_total_venda": 22.37,
+    "aviamentos_data": [
+      {
+        "nome": "Linha",
+        "tipo": "metro",
+        "custo_unitario": 0.13333333333333333,
+        "detalhes": {
+          "valor_total": 20,
+          "metros_total": 1500,
+          "metros_utilizados": 10
+        }
+      },
+      {
+        "nome": "Zíper",
+        "tipo": "metro",
+        "custo_unitario": 0.35,
+        "detalhes": {
+          "valor_total": 1,
+          "metros_total": 1,
+          "metros_utilizados": 0.35
+        }
+      },
+      {
+        "nome": "Cursor",
+        "tipo": "unidade",
+        "custo_unitario": 1,
+        "detalhes": {
+          "valor_unitario": 1,
+          "unidades_utilizadas": 1
+        }
+      },
+      {
+        "nome": "vivo",
+        "tipo": "metro",
+        "custo_unitario": 0.7,
+        "detalhes": {
+          "valor_total": 20,
+          "metros_total": 20,
+          "metros_utilizados": 0.7
+        }
+      }
+    ],
+    "valor_total_tecido": 8,
+    "comprimento_total_tecido": 100,
+    "largura_tecido": 140,
+    "metragem_utilizada": 588,
+    "valor_total_tecido2": 15.7,
+    "comprimento_total_tecido2": 100,
+    "largura_tecido2": 140,
+    "largura_utilizada2": 21,
+    "comprimento_utilizado2": 28,
+    "metragem_utilizada2": 588,
+    "valor_total_tecido3": 15.7,
+    "comprimento_total_tecido3": 100,
+    "largura_tecido3": 140,
+    "largura_utilizada3": 25,
+    "comprimento_utilizado3": 45,
+    "metragem_utilizada3": 1125,
+    "valor_total_forro": 0,
+    "comprimento_total_forro": 0,
+    "largura_forro": 0,
+    "largura_utilizada_forro": 0,
+    "comprimento_utilizado_forro": 0,
+    "metragem_utilizada_forro": 0,
+    "foto_base64": null,
+    "foto_nome": null,
+    "foto_tipo": null
   }
 ]
