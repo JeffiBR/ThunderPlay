@@ -357,5 +357,95 @@
     "foto_base64": null,
     "foto_nome": null,
     "foto_tipo": null
+  },
+  {
+    "id": 4,
+    "created_at": "2026-03-27T01:53:04.251Z",
+    "updated_at": "2026-03-27T01:53:04.251Z",
+    "nome_produto": "Porta moeda, porta moeda box.",
+    "quantidade_produtos": 50,
+    "tecido_tipo": "Naylon 600",
+    "tecido_tipo2": "Oxford",
+    "tecido_tipo3": null,
+    "tecido_tipo_forro": null,
+    "custo_unitario_tecido": 0.51,
+    "custo_unitario_tecido2": 0.17,
+    "custo_unitario_tecido3": 0,
+    "custo_unitario_forro": 0,
+    "largura_utilizada": 15,
+    "comprimento_utilizado": 20,
+    "area_utilizada": 300,
+    "custo_unitario_aviamentos": 1.36,
+    "custo_unitario_mo": 3,
+    "custo_unitario_embalagem": 0.04,
+    "custo_unitario_transporte": 0.5,
+    "porcentagem_lucro": 100,
+    "lucro_unitario": 1.86,
+    "preco_venda_unitario": 7.69,
+    "aviamentos_data": [
+      {
+        "nome": "Cursor",
+        "tipo": "unidade",
+        "custo_unitario": 1,
+        "detalhes": {
+          "valor_unitario": 1,
+          "unidades_utilizadas": 1
+        }
+      },
+      {
+        "nome": "Linha",
+        "tipo": "metro",
+        "custo_unitario": 0.06666666666666667,
+        "detalhes": {
+          "valor_total": 20,
+          "metros_total": 1500,
+          "metros_utilizados": 5
+        }
+      },
+      {
+        "nome": "ziper",
+        "tipo": "metro",
+        "custo_unitario": 0.15,
+        "detalhes": {
+          "valor_total": 1,
+          "metros_total": 1,
+          "metros_utilizados": 0.15
+        }
+      },
+      {
+        "nome": "argola",
+        "tipo": "unidade",
+        "custo_unitario": 0.14,
+        "detalhes": {
+          "valor_unitario": 0.14,
+          "unidades_utilizadas": 1
+        }
+      }
+    ],
+    "valor_total_tecido": 15.7,
+    "comprimento_total_tecido": 100,
+    "largura_tecido": 140,
+    "metragem_utilizada": 300,
+    "valor_total_tecido2": 8,
+    "comprimento_total_tecido2": 100,
+    "largura_tecido2": 140,
+    "largura_utilizada2": 15,
+    "comprimento_utilizado2": 20,
+    "metragem_utilizada2": 300,
+    "valor_total_tecido3": 0,
+    "comprimento_total_tecido3": 0,
+    "largura_tecido3": 0,
+    "largura_utilizada3": 0,
+    "comprimento_utilizado3": 0,
+    "metragem_utilizada3": 0,
+    "valor_total_forro": 0,
+    "comprimento_total_forro": 0,
+    "largura_forro": 0,
+    "largura_utilizada_forro": 0,
+    "comprimento_utilizado_forro": 0,
+    "metragem_utilizada_forro": 0,
+    "foto_base64": null,
+    "foto_nome": null,
+    "foto_tipo": null
   }
 ]
