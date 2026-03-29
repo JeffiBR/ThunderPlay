@@ -618,5 +618,95 @@
     "foto_base64": null,
     "foto_nome": null,
     "foto_tipo": null
+  },
+  {
+    "id": 7,
+    "created_at": "2026-03-29T03:05:46.636Z",
+    "updated_at": "2026-03-29T03:05:46.636Z",
+    "nome_produto": "Colt Dia das Mães.",
+    "quantidade_produtos": 1,
+    "tecido_tipo": "",
+    "tecido_tipo2": "Naylon 600",
+    "tecido_tipo3": null,
+    "tecido_tipo_forro": "Forro de Malha",
+    "custo_unitario_tecido": 2.19,
+    "custo_unitario_tecido2": 0.99,
+    "custo_unitario_tecido3": 0,
+    "custo_unitario_forro": 0.69,
+    "largura_utilizada": 21,
+    "comprimento_utilizado": 42,
+    "area_utilizada": 882,
+    "custo_unitario_aviamentos": 1.12,
+    "custo_unitario_mo": 4.5,
+    "custo_unitario_embalagem": 2,
+    "custo_unitario_transporte": 0.5,
+    "porcentagem_lucro": 100,
+    "lucro_unitario": 3.31,
+    "preco_venda_unitario": 14.11,
+    "aviamentos_data": [
+      {
+        "nome": "Zíper",
+        "tipo": "metro",
+        "custo_unitario": 0.25,
+        "detalhes": {
+          "valor_total": 1,
+          "metros_total": 1,
+          "metros_utilizados": 0.25
+        }
+      },
+      {
+        "nome": "Linha",
+        "tipo": "metro",
+        "custo_unitario": 0.05333333333333334,
+        "detalhes": {
+          "valor_total": 20,
+          "metros_total": 1500,
+          "metros_utilizados": 4
+        }
+      },
+      {
+        "nome": "Cursor",
+        "tipo": "unidade",
+        "custo_unitario": 0.22,
+        "detalhes": {
+          "valor_unitario": 0.22,
+          "unidades_utilizadas": 1
+        }
+      },
+      {
+        "nome": "Alça",
+        "tipo": "unidade",
+        "custo_unitario": 0.6,
+        "detalhes": {
+          "valor_unitario": 0.6,
+          "unidades_utilizadas": 1
+        }
+      }
+    ],
+    "valor_total_tecido": 8,
+    "comprimento_total_tecido": 100,
+    "largura_tecido": 140,
+    "metragem_utilizada": 882,
+    "valor_total_tecido2": 15.7,
+    "comprimento_total_tecido2": 100,
+    "largura_tecido2": 140,
+    "largura_utilizada2": 21,
+    "comprimento_utilizado2": 42,
+    "metragem_utilizada2": 882,
+    "valor_total_tecido3": 0,
+    "comprimento_total_tecido3": 0,
+    "largura_tecido3": 0,
+    "largura_utilizada3": 0,
+    "comprimento_utilizado3": 0,
+    "metragem_utilizada3": 0,
+    "valor_total_forro": 11,
+    "comprimento_total_forro": 100,
+    "largura_forro": 140,
+    "largura_utilizada_forro": 21,
+    "comprimento_utilizado_forro": 42,
+    "metragem_utilizada_forro": 882,
+    "foto_base64": null,
+    "foto_nome": null,
+    "foto_tipo": null
   }
 ]
